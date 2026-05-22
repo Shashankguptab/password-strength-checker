@@ -50,7 +50,3 @@ This project was developed to understand:
 - Password encryption
 - Real-time strength meter
 - AI-based password suggestions
-
-## Author
-
-Shashank Gupta
